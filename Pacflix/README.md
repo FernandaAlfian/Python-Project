@@ -463,22 +463,23 @@ Test
     Expected Output:
 
     ```
-| Service | Basic Plan  | Standard Plan  | Premium Plan  |
-| ------- | --- | --- | --- |
-| Streaming | &check; | &check; | &check;  |
-| Download | &check; | &check; | &check;  |
-| SD | &check; | &check; | &check;  |
-| HD | - | &check; | &check;  |
-| UHD | - | - | &check;  |
-| Number of Devices | 1 | 2 | 4  |
-| Content | 3rd Party Movies Only | 3rd Party Movies + Sports (F1, Football, Basketball) | 3rd Party Movie + Sports (F1, Football, Basketball PacFlix Original Series or Movies |
-| Price | Rp 120.000 | Rp 160.000 | Rp 200.000  |
+    | Service | Basic Plan  | Standard Plan  | Premium Plan  |
+    | ------- | --- | --- | --- |
+    | Streaming | &check; | &check; | &check;  |
+    | Download | &check; | &check; | &check;  |
+    | SD | &check; | &check; | &check;  |
+    | HD | - | &check; | &check;  |
+    | UHD | - | - | &check;  |
+    | Number of Devices | 1 | 2 | 4  |
+    | Content | 3rd Party Movies Only | 3rd Party Movies + Sports (F1, Football, Basketball) | 3rd Party Movie + Sports (F1, Football, Basketball PacFlix Original Series or Movies |
+    | Price | Rp 120.000 | Rp 160.000 | Rp 200.000  |
     ```
-
+    
     Output Realization:
+   
     ![Screenshot 2023-10-17 165649](https://github.com/FernandaAlfian/Python-Project/assets/98755428/cbd8e1a1-582f-442f-afa3-590f41d9920d)
 
-2. User ingin mendaftar user di PacFlix dan memilih Basic Plan dengan menggunakan referral code
+3. User ingin mendaftar user di PacFlix dan memilih Basic Plan dengan menggunakan referral code
 
 
     Input:
@@ -493,10 +494,11 @@ Test
     ```
 
     Output Realization:
+   
     ![Screenshot 2023-10-17 165739](https://github.com/FernandaAlfian/Python-Project/assets/98755428/d7f70429-6e12-4698-9965-64d57cdc945b)
 
 
-3. User ingin melakukan upgrade plan dan sudah lebih dari 12 bulan.
+4. User ingin melakukan upgrade plan dan sudah lebih dari 12 bulan.
 
     Input:
     ```
@@ -510,11 +512,12 @@ Test
     ```
 
     Output Realization:
+   
     ![Screenshot 2023-10-17 165809](https://github.com/FernandaAlfian/Python-Project/assets/98755428/18ada3ba-45dd-411e-ab82-97fe9b0b0fa3)
 
 
 
-4. User ingin melihat plan yang sedang user gunakan
+5. User ingin melihat plan yang sedang user gunakan
 
     Input:
     ```
@@ -528,6 +531,7 @@ Test
     ```
 
     Output Realization:
+   
     ![Screenshot 2023-10-17 181340](https://github.com/FernandaAlfian/Python-Project/assets/98755428/474469fe-dbd6-43ce-9982-2b24274fe44d)
 
 
