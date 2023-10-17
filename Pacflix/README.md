@@ -39,6 +39,7 @@ PacFlix adalah layanan platform video streaming yang memiliki 3 plan dengan bene
 
 
 ## Flowchart
+![Flowchart](https://github.com/FernandaAlfian/Python-Project/assets/98755428/6dac5ee6-4e45-4db1-82c3-e2702320a13e)
 
 
 
