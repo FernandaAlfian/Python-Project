@@ -39,7 +39,7 @@ PacFlix adalah layanan platform video streaming yang memiliki 3 plan dengan bene
 
 
 ## Flowchart
-![Flowchart Super Cashier](https://user-images.githubusercontent.com/98755428/227398802-b7402b40-2d17-4a89-a334-dbee3bdbe87d.png)
+
 
 
 
