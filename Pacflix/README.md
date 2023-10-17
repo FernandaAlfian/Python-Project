@@ -479,7 +479,7 @@ Test
    
     ![Screenshot 2023-10-17 165649](https://github.com/FernandaAlfian/Python-Project/assets/98755428/cbd8e1a1-582f-442f-afa3-590f41d9920d)
 
-3. User ingin mendaftar user di PacFlix dan memilih Basic Plan dengan menggunakan referral code
+2. User ingin mendaftar user di PacFlix dan memilih Basic Plan dengan menggunakan referral code
 
 
     Input:
@@ -495,10 +495,10 @@ Test
 
     Output Realization:
    
-    ![Screenshot 2023-10-17 165739](https://github.com/FernandaAlfian/Python-Project/assets/98755428/d7f70429-6e12-4698-9965-64d57cdc945b)
+   ![Screenshot 2023-10-17 182128](https://github.com/FernandaAlfian/Python-Project/assets/98755428/0a884900-7b58-43aa-85d6-0603a9ad0b69)
 
 
-4. User ingin melakukan upgrade plan dan sudah lebih dari 12 bulan.
+3. User ingin melakukan upgrade plan dan sudah lebih dari 12 bulan.
 
     Input:
     ```
@@ -517,7 +517,7 @@ Test
 
 
 
-5. User ingin melihat plan yang sedang user gunakan
+4. User ingin melihat plan yang sedang user gunakan
 
     Input:
     ```
@@ -532,11 +532,11 @@ Test
 
     Output Realization:
    
-    ![Screenshot 2023-10-17 181340](https://github.com/FernandaAlfian/Python-Project/assets/98755428/474469fe-dbd6-43ce-9982-2b24274fe44d)
+   ![Screenshot 2023-10-17 182141](https://github.com/FernandaAlfian/Python-Project/assets/98755428/be9beccb-8a68-4b47-9e1f-468a229dc561)
 
 
 
-# Conclution
+# Conclutions
 Berdasarkan requrements yang ada pada promblem case PacFlix ini, seluruh requremetns dapat dijalankan sesuai dengan ekspetkasi yang diinginkan, dan terdapat pernyesuaian dalam pengerjaannya untuk dapat lebih mempermudah consumer dalam menggunakan program PacFlix ini. Program sederhana ini dapat digunakan, dan masih dapat dilakukan pengembangan di kemudian hari.
 
 
