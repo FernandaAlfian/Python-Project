@@ -462,7 +462,7 @@ Test
 
     Expected Output:
 
-    ```
+
     | Service | Basic Plan  | Standard Plan  | Premium Plan  |
     | ------- | --- | --- | --- |
     | Streaming | &check; | &check; | &check;  |
@@ -473,7 +473,7 @@ Test
     | Number of Devices | 1 | 2 | 4  |
     | Content | 3rd Party Movies Only | 3rd Party Movies + Sports (F1, Football, Basketball) | 3rd Party Movie + Sports (F1, Football, Basketball PacFlix Original Series or Movies |
     | Price | Rp 120.000 | Rp 160.000 | Rp 200.000  |
-    ```
+
     
     Output Realization:
    
