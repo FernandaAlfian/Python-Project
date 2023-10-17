@@ -379,10 +379,12 @@ def check_current_plan():
 
     while True:
         if username in User.list_user:
-            user = User.list_user[username]
-            user = User(username, User.list_user[username][3], User.list_user[username][1])
-            print(user.__str__())
-
+            print("-------------  ----------------")
+            print(f"Username       {username}")
+            print(f"Plan           {user[0]}")
+            print(f"Register Date  {user[1]}")
+            print(f"Last Bill      {user[2]}")
+            print("-------------  ----------------")
             break
         else: 
             print("User not found")
